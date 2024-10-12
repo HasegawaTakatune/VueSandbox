@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { reactive, ref, watch, computed, onMounted } from 'vue'
+import { ref, reactive, watch, computed, onMounted } from 'vue'
 
 // ユーザ名
 const name = ref('')
